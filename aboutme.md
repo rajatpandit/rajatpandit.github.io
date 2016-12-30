@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Brief Intro
 ---
+Currently working for Tesco, ~~Accenture~~, ~~Time Inc~~, ~~Yahoo!~~, ~~HCL~~
 
-My name is Inigo Montoya. I have the following qualities:
+Architect for large, highly scalable applications and Technical Manager with special focus on metrics based continuous improvement of teams and products.
+Rajat has more than a decade of experience of a very wide range of skills related to infrastructure, middleware, app servers all the way to front-end technologies and software development methodologies including agile, iterative waterfall, waterfall as well as ah-hoc startup using the right approach in the right context to reduce time to market.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+He has a passion for delivering engaging, connected consumer experiences and creating, managing and leading highly functional development teams that  deliver business value with technology.
 
-What else do you need?
+Specialties: 
 
-### my history
+* Implementation of Devops in the Enterprise
+* Continuous Delivery Implementation for both Mobile and Web Applications
+* Full Stack development
+* E-commerce platforms ATG, Sterling OMS
+* Cloud Infrastructure Architecture
+* Project Management, Agile, XP, TDD
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
