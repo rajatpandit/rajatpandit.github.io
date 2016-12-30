@@ -198,7 +198,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages (= 112)
+  github-pages
   jekyll-paginate
 
 BUNDLED WITH
