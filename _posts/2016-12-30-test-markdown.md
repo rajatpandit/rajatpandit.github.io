@@ -2,6 +2,7 @@
 layout: post
 title: First post (again)
 subtitle: Getting back into regular writing
+comments: true
 ---
 
 A lot has changed over the last few years for me professionally (and personally). Having moved roles, countries and two kids changes a lot. I have had very little time for hands on learning as I mostly have been working as a coach, mentoring teams and playing with technology that interests me instead of a specific roadmap. 
