@@ -78,7 +78,7 @@ url-pretty: "rajatpandit.com"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "rajatpandit"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-140420755-1"
 
 # Facebook App ID
 # fb_app_id: ""
@@ -175,6 +175,3 @@ prose:
 
 gems:
   - jekyll-paginate
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
