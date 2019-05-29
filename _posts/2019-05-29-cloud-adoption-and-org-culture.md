@@ -2,6 +2,7 @@
 layout: post
 title: Cloud adoption and organisation culture
 subtitle: Understanding the ability of an organisation to adapt to cross functional level changes
+image: /img/assets/company_culture.jpeg
 comments: true
 ---
  ![Company Culture](/img/assets/company_culture.jpeg )
