@@ -5,15 +5,15 @@ subtitle: Understanding the ability of an organisation to adapt to cross functio
 comments: true
 ---
  
-I have the fine opportunity to work with multiple large enterprises to help them get started with their journey on cloud. Typically the ones that are very early in the journey takes one of the few possible starting points.
-* There is a specific use-case that can help them with their business needs and the cloud can address it for them
-* They endlessly evaluate cloud providers without a specific goal in mind - this is mostly to bring themselves up to speed on what's latest in this space
+I have the fine opportunity to work with multiple large enterprises to help them get started with their journey on cloud. Typically the ones that are very early in the journey take one of the few possible starting points:
+* They have a specific use-case for their business objectives and want to see if cloud can help address it.
+* Alt; They endlessly evaluate cloud providers without a specific goal in mind - this is mostly to bring themselves up to speed with what's latest in the cloud space
  
-However whichever route they tend to take, it's interesting how some organisations just get on with adoption while others just don't seem to make a huge amount of progress.
+However, whichever route they tend to take, it's interesting how some organisations just get on with adoption while others just don't seem to make a huge amount of progress despite the number of interactions.
  
 I did wonder what sort of frame of reference could we look at an organisation with - in order to better understand how we could help the slow/never starters to make progress as they fundamentally believe it was the right thing to do but just struggled because of the way their organisation was structured.
  
-Reading the State of devops report for 2019 I spotted a theory around measuring the culture of an organisation which seems to have a direct correlation to how quickly they adopt changes. Using cloud is one of those fundamental shifts as well that impacts a big chunk of the organisation not just IT.
+Reading the [State of devops report for 2018](https://cloudplatformonline.com/2018-state-of-devops.html) I spotted a theory around measuring the culture of an organisation which seems to have a direct correlation to how quickly they adopt changes. Using cloud is one of those fundamental shifts as well that impacts a big chunk of the organisation not just IT.
  
 [Nicole](https://www.linkedin.com/in/nicolefv/) and her team mentions an academic paper written by Ron Westrum, an American sociologist who originally published in Quality and Safety in Health Care, an international peer-reviewed journal for health professionals, “A Typology of Organisational Cultures”.
  
@@ -38,4 +38,4 @@ Perhaps with frameworks like [GCAF](https://services.google.com/fh/files/misc/ad
  
 How has cloud adoption been for your organisation, I would love to hear more about the real challenges that you have encountered and how you approached to get them addressed.
 
-
+Also while you are at it 
