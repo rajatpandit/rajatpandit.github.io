@@ -5,12 +5,12 @@ subtitle: Understanding the ability of an organisation to adapt to cross functio
 share-img: /img/assets/company_culture.jpeg
 comments: true
 ---
- ![Company Culture](/img/assets/company_culture.jpeg )
-
 I have the fine opportunity to work with multiple large enterprises to help them get started with their journey on cloud. Typically the ones that are very early in the journey take one of the few possible starting points:
 * They have a specific use-case for their business objectives and want to see if cloud can help address it.
 * Alt; They endlessly evaluate cloud providers without a specific goal in mind - this is mostly to bring themselves up to speed with what's latest in the cloud space
- 
+
+![Company Culture](/img/assets/company_culture.jpeg )
+
 However, whichever route they tend to take, it's interesting how some organisations just get on with adoption while others just don't seem to make a huge amount of progress despite the number of interactions.
  
 I did wonder what sort of frame of reference could we look at an organisation with - in order to better understand how we could help the slow/never starters to make progress as they fundamentally believe it was the right thing to do but just struggled because of the way their organisation was structured.
