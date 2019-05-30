@@ -38,4 +38,4 @@ Interestingly while an organisation fits in an overall bucket - each department 
  
 Perhaps with frameworks like [GCAF](https://services.google.com/fh/files/misc/adoption_framework_whitepaper_nov12_final.pdf) we should also look at the culture maturity framework as well that can help organisations build a roadmap aligned to initiatives that require cross functional change.
  
-How has cloud adoption been for your organisation, I would love to hear more about the real challenges that you have encountered and how you approached to get them addressed.
+How has cloud adoption been for your organisation? I would love to hear more about the real challenges that you have encountered and how you approached to get them addressed.
