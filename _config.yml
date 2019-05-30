@@ -1,3 +1,5 @@
+host: 0.0.0.0
+port: 4000
 # --- General options --- #
 
 # url is the full website URL
@@ -6,6 +8,8 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://rajatpandit.com"
 baseurl: ""
+plugins:
+  - jekyll-sitemap
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
