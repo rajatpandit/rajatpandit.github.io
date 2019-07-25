@@ -10,8 +10,10 @@ When working with enterprises - we tend to see engagement mostly from the *CTOs 
 
 My take is that this passive engagement of CFOs wouldn’t work in the long term, especially if the organization has a cloud strategy that they wish to work towards. 
 
+![Cloud Finance](/img/assets/cloud-dollar.jpg )
+
 Several changes happen as an organization moves to the cloud
-*  The one most commonly heard of is - the shift from CapEx to Opex expenditure - which requires managing the budgeting very differently. This is evident in the numbers published by computer economics which has seen the CapEx % drop from 23% in 2014 to 18% - at a 5yr low 
+*  The one most commonly heard of is - the shift from CapEx to Opex expenditure - which requires managing the budgeting very differently. This is evident in the numbers published by [computer economics](https://www.computereconomics.com/page.cfm?name=it%20spending%20and%20staffing%20study) which has seen the CapEx % drop from 23% in 2014 to 18% - at a 5yr low 
 *  IT equipment (read servers) “purchase” is now more decentralized than ever with different business units having the capability to setup/run new infrastructure - so the demand can come from anywhere
 *  The IT spend per business unit is more dynamic per period than it has ever been so the charge back / show back strategy cannot work the current static spreadsheets based approach.
 *  And understanding the cost to do business - which requires understanding cost of product development/running cost requires being able to factor the dynamic pricing against the value creation (e.g. cost of infra for serving per user request)
