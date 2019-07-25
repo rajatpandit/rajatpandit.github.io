@@ -2,7 +2,7 @@
 layout: post
 title: CFOs - Join the cloud adoption journey
 subtitle: Thoughts on engaging the finance teams just as much as the IT teams to execute on the cloud strategy
-share-img: /img/assets/cloud-dollar.jpeg
+share-img: /img/assets/cloud-dollar.jpg
 comments: true
 ---
 
