@@ -16,7 +16,7 @@ He has a passion for delivering engaging, connected consumer experiences and cre
 
 Specialties: 
 
-* Implementation of Devops in the Enterprise
+* Cloud adoption at enterprise scale, finops, devsecops
 * Continuous Delivery Implementation for both Mobile and Web Applications
 * Full Stack development
 * E-commerce platforms ATG, Sterling OMS
