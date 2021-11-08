@@ -8,6 +8,9 @@ comments: true
 
 Skills for persuasion are critical in any role. Pre-sales requires working with customers in various points of their decision making. This hence becomes an even more critical skill as you are working against time. 
 
+![Persuasion and Influence - not quite the same](/img/assets/jason-rosewell-ASKeuOZqhYU-unsplash.jpg )
+
+
 I had once named an internal project Aurora, that got reasonable attention. Most people were curious to know what it would do for them. It gave me the opportunity to engage and explain the unique proposition. For those that found it useful I got the some great adoption. From others I got some great feedback. The feedback was in one of two categories. Either a new feature request or a different way to present another perspective
 
 Persuasion is the effort we make to shape or shift others attitudes, beliefs and behaviour to show our perspective. Engagement becomes the vehicle that we then use to  deliver the persuasive POV. If your users are not highly engaged in a conversation they miss  the key message you are trying to deliver. 
