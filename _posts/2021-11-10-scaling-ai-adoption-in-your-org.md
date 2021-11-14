@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scaling AI Adoption in your org
-subtitle: Organisations that adopt AI display unique traits. Lacking in these traits diminish prospects of wide scale adoption. Ever wondered why the amazing demo you say 3months back still isn't in front of of your customers? Here are some thoughts on the common traits that I get to see where this actually does work very well.
+subtitle: Organisations that adopt AI display unique traits. Lacking in these traits diminish prospects of wide scale adoption. Ever wondered why the amazing demo you saw 3months back still isn't in front of of your customers? Here are some thoughts on the common traits that I get to see where this actually does work very well.
 share-img: /img/assets/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg
 comments: true
 ---
