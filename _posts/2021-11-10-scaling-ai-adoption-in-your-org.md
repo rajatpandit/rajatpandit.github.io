@@ -40,3 +40,6 @@ The last aspect of this is organisational setup. Should this be a central team o
 This model creates the required network effect in the organisation. This speeds up things next time a common problem  shows up. Also provides the business units to make their own decision, improving agility.
 
 How have you seen this play-out in your organisation? Have you seen great demos that never saw the day of light? What has been in your opinion the biggest challenge in the AI adoption in your organisation or team. I would love to hear more about your experiences.
+
+
+Photo by <a href="https://unsplash.com/@ikukevk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Ku</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
