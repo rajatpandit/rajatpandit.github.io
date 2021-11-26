@@ -2,7 +2,7 @@
 layout: post
 title: So you are a manager's manager?
 subtitle: As your roles change - how you deliver value also changes. Sometimes in unfamiliar ways and that takes intentionality to realign. This post covers some ideas and lessons learnt along the way
-share-img: /img/assets/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg
+share-img: /img/assets/krakenimages-376KN_ISplE-unsplash.jpg
 comments: true
 ---
 
