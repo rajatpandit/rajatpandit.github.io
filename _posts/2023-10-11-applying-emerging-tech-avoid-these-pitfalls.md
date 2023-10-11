@@ -9,6 +9,8 @@ comments: true
 # Context of the Enterprise 
 Recently there has been a lot of interest in the enterprise with Generative AI. Besides the natural impact it can make in the organization - everyone is keen on being the first to land the impact amongst their peers. In this race - some of the gaps are clearly evident in my discussions with enterprise leaders and executives. If you are one of those executives who have the mandate to set up and land the first wave of impact from AI - here are somethings practical advice to consider. 
 
+![Emerging Tech Projects - Avoid these common pitfalls.](/img/assets/lacey-raper-ey1Obz7I2fw-unsplash.jpg)
+
 # Scope and Impact
 Given the newness of the technology - what it really needs is some champions and sponsors. What you need to get those - are some quick wins - to demonstrate the practical application of the technology in the context of your business. While you work through the prioritization don't forget sizing the programme. If anything takes more than 3-6months to land and adopt - you are being overly ambitious. Esp. for something that hasn't been done in your organization before. Review/Reduce/Phase the scope but land the change fast. 
 
