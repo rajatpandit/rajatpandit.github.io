@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Emerging Tech Projects - Avoid these common pitfalls.
-subtitle: Some very common pitfalls - things to watchout for in enterprise when starting a new project using emerging technology. it talks about aspects of scoping, ownership and technology changes. most of it is obvious but less commonly followed
+subtitle: Some ideas on what to watchout for enterprise when starting new projects using emerging technology. This post talks about aspects of scoping, ownership and technology changes. Most of it is obvious but less commonly followed
 share-img: /img/assets/lacey-raper-ey1Obz7I2fw-unsplash.jpg
 comments: true
 ---
