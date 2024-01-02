@@ -4,9 +4,10 @@ title: Enterprise Knowledge Management v2
 subtitle: With the rise of large language models there is an opportunity to re-visit how we think about them. Having said that taking a general purpose LLM to a domain specific enterprise KM tool can be several different paths. This post covers the various options and some ideas to think about what else needs to be done to prepare.
 share-img: /img/assets/michaela-murphy-TIS8AnSiFI4-unsplash.jpg
 comments: true
+toc: true
 ---
 
-# I love my Enterprise Knowledge Management system - said no one
+## I love my Enterprise Knowledge Management system - said no one
 
 Traditional KM systems have long suffered from lack of  technology that was able to scale, index and address both search and discovery capability. This often meant loss in productivity as teams and individuals alike would end up solving the same problem twice. 
 

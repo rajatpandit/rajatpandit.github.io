@@ -4,6 +4,7 @@ title: Scaling AI Adoption in your org
 subtitle: Organisations that adopt AI display unique traits. Lacking in these traits diminish prospects of wide scale adoption. Ever wondered why the amazing demo you saw 3months back still isn't in front of of your customers? Here are some thoughts on the common traits that I get to see where this actually does work very well.
 share-img: /img/assets/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg
 comments: true
+toc: true
 ---
 
 One of the fun parts of my role is to tell stories. Stories of tech folklore but also often genesis of patterns. These patterns end up emerging as "best practices" in the long term. So here's a short story of what happened with Eric Schmidt when he shared his office space with an engineer. Bear in mind this is 2001, Google was doing about $100M in revenue and still at-least 3yrs away from going [public](https://www.google.com/intl/en/about/our-story/). 

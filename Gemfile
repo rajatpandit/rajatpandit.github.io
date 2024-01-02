@@ -17,6 +17,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-paginate'
+  gem 'jekyll-toc'
   gem "jekyll-feed", "~> 0.12"
 end
 
