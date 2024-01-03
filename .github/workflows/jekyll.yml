@@ -33,8 +33,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup tmate session
-        run: mxschmitt/action-tmate@v3
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1.165.1
         with:
