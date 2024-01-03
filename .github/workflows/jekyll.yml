@@ -34,7 +34,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Update build
-        run: apt-get update && apt-get install -y build-essential
+        run: sudo apt-get update && apt-get install -y build-essential
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1.165.1
         with:
