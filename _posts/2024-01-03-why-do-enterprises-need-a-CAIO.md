@@ -4,7 +4,6 @@ title: Part I - Why do large enterprises need a Chief AI Officer?
 subtitle: Having spoken to a lot of organisations keen on adopting AI and scale - the pattern of where things break is very evident. I make a case for a role of a Chief AI Officer and also talk about how they can be most effective. In the 2nd part of this post I will also cover the leading indicators that organisations can set to see if this going as planned.
 share-img: /img/assets/scott-graham-5fNmWej4tAA-unsplash.jpg
 comments: true
-toc: true
 ---
 
 ![Why do large enterprises need a Chief AI Officer](/img/assets/scott-graham-5fNmWej4tAA-unsplash.jpg)

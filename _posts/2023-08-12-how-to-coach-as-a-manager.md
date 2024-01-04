@@ -4,7 +4,6 @@ title: How to coach a manager?
 subtitle: While everyone could always do with some coaching - specifically for managers - effective coaching has a multiplier effect. Having done this for a while - here are some thoughts that have worked for me - or didn't :)
 share-img: /img/assets/krakenimages-376KN_ISplE-unsplash.jpg
 comments: true
-toc: true
 ---
 Let me start off by with addressing the elephant in the room. Your managers (and your extended team) are always watching you in action. This means - cues of what "good looks like" or gets "valued" in the organization is watched very minutely - from what you do, what you recognize and how you operate. So whatever approach you take for coaching - ensure its consistent with what you do on the ground.
 

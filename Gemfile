@@ -17,7 +17,7 @@ gem "jekyll", "~> 3.9.3"
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-paginate'
-  gem 'jekyll-toc'
+  # gem 'jekyll-toc'
   gem "jekyll-feed", "~> 0.12"
   gem "kramdown-parser-gfm"
   gem "faraday-retry"
