@@ -20,6 +20,7 @@ group :jekyll_plugins do
   gem 'jekyll-toc'
   gem "jekyll-feed", "~> 0.12"
   gem "kramdown-parser-gfm"
+  gem "faraday-retry"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
