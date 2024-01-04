@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Part I - Why do large enterprises need a Chief AI Officer?
-subtitle: Having spoken to a lot of organisations keen on adopting AI at scale - the pattern of things breaking down is consistent. I make a case for a role of a Chief AI Officer and also talk about how they can be most effective.
+subtitle: Having spoken to a lot of organisations keen on adopting AI at scale - the pattern for systems eventually breaking down is consistent. In this post I make a case for a role of a Chief AI Officer and also talk about how they can be most effective.
 share-img: /img/assets/scott-graham-5fNmWej4tAA-unsplash.jpg
 comments: true
 ---
@@ -10,17 +10,18 @@ comments: true
 
 
 # The Problem statement - Gap in the org design
-In 2024 - I don't believe we need to *still* make a case for committing to leverage AI and I say that in an overarching terms for both *predictive* and *generative* AI. However worked with various enterprises in the last few years - here are some of patterns I saw - Departments where this emerging capability has tried to find home
+In 2024 - I don't believe we need to *still* make a case for committing to leverage AI and I say that in an overarching terms for both *predictive* and *generative* AI. Having worked with various enterprises in the last few years - this is what I saw - departments where this emerging capability tried to find home
+
 * Innovation Labs
 * Shadow AI projects
 * Business sponsor + external vendor (insert SI, ISV, Saas - you name it)
 
-and the problem with all these patterns is - when there is a platform shift of this nature and size - creating value from it requires a significant level of cross collaboration. Each key office/individual of of influence has something to add.
+and the problem with this approach is - when there is a platform shift of this nature and size - creating value from it requires a significant level of cross collaboration. Each key office/individual of of influence has something to add.
 
 - Business Unit Leaders - All of them have a detailed understanding of their business process and workflows
 - Technology Leaders - have the tech wherewith to adopt and fast track implementation
 - Partners - Providers of staff of augmentation, development accelerators, turn key solutions via ISVs, SaaS 
-- Board Members - (re)imagine what visions statements could delivery for their customers once they understand better the art of possible
+- CXOs - (re)imagine the business once they understand the art of possible with emerging technology
 
 However - with the patterns I described at the start - this value is lost or diluted at best if there isn't a forcing function stitching it all together, delivering/measuring actual value unlocked.
 
@@ -29,16 +30,17 @@ Turns out as I was thinking about this idea - I found out that there was [plenty
 
 # Where does the Chief AI Officer fit in?
 ## COO / CEO / CXO
-The CEO and COO are critical to setting the direction and running the day to day operations of the business. They have the uber view of strategic initiatives across the company and are critical "end customers" for the role.  The CAIO can work with them on the following
-### Organisational Alignment
-Sitting in the various steering meetings the CAIO can bring in insights on how some of the goals could be delivered in a market differentiating way (insert cheaper, better, faster - whatever works best for the business). The CAIO can then also use this opportunity to be "air traffic control" for various some AI lead interventions to ensure that a capability created for one of the initiative is leveraged elsewhere reducing the overall investments. 
+The CEO and COO are critical to setting the direction and running the day to day operations of the business. They have the uber view of strategic initiatives across the company and are critical "end customers" for the role.  The CAIO can work with them on the following focus areas: 
 
-Often organisational/business units objectives that when not pursed in tandem can have a negative impact. Imagine a retailer - who has an initiative to improve recommendations to increase top line  - while the logistics team is trying to reduce time to delivery / scale for increasing demand. If the first one succeeds it puts pressure on other initiative - either adding to the delivery costs, delays, loss of customer satisfaction or alt. the second team implements efficient logistics but no where near the size of orders coming through - to justify the overall investment
+### Organisational Alignment
+Sitting in the various steering meetings the CAIO can bring in insights on how some of the goals could be delivered in a market differentiating way (insert cheaper, better, faster - whatever works best for the business). The CAIO can then also use this opportunity to be "air traffic controller" for various AI lead interventions to ensure that a capability created for one of the initiative is leveraged elsewhere reducing the overall investments. 
+
+Often organisational/business unit's objectives that when not pursed in tandem can have a negative impact. Imagine a retailer - who has an initiative to improve recommendations to increase top line  - while the logistics team is trying to reduce time to delivery / scale for increasing demand. If the first one succeeds it puts pressure on other initiative - either adding to the delivery costs, delays, loss of customer satisfaction or alt. the second team implements efficient logistics but no where near the size of orders coming through - to justify the overall investment
 
 Often a CAIO can be the voice of reason to look at these initiatives through the customer journey / end to end process  which business owners for a specific function tend to miss. 
 
 ### Bridge technical and business requirements
-Often solved via setting up of COEs  (and I seen enough cloud and AI COEs that solve that in parts but mostly end up being a push mode rather than a pull mode due to lack of a central owner). A successful AI Implementation requires this critical aspect of bridging the technical and business requirements - as not all organisations have a product team - traditional organsations like banking for instance have functional production owners - who own a business process alone but not always what their end customers experience. This also includes the much needed "change management" for adoption of the new AI enabled process which is often left to the IT team resulting in poor adoption or an incomplete feedback loop. 
+Often solved via setting up of COEs  (and I seen enough cloud and AI COEs that solve that in parts but mostly end up being a push model rather than a pull mode due to lack of a central owner with an exective sponsorship). A successful AI Implementation requires this critical aspect of bridging the technical and business requirements - as not all organisations have a product team - traditional organsations like banking for instance have functional production owners - who own a business process alone but not always own their end customers experience - typically managed by the CDO instead. This also includes the much needed "change management" for adoption of the new AI enabled process which is often left to the IT team resulting in poor adoption or an incomplete feedback loop. 
 
 ### Ensure ethical and Responsible AI deployment
 Taking a local view of a project (inside a business unit or a function e.g. engineering) often misses the wider impact the project can have. Sitting on the outside - this role can make an outsized impact by defining what is "ethical and responsible" in alignment to the prevailing laws, company's vision and mission statement. 
@@ -46,7 +48,7 @@ Taking a local view of a project (inside a business unit or a function e.g. engi
 A google for example - the AI review process is widely written about including on the [company blog](https://ai.google/responsibility/ai-governance-operations/#:~:text=Any%20team%20can%20request%20AI,product%20ideas%2C%20and%20other%20projects.&text=Reviewers%20analyze%20the%20scale%20and,technology's%20potential%20benefits%20and%20harms.) . The CAIO in the organization can setup an office to ensure these reviews are done independently, fairly and at speed to ensure it does't stifle time to market or an oppty cost.  
 
 ### Secure Exec Sponsorship via Advocacy 
-This aspect is so critical and often an afterthought. I have seen several projects that don't live beyond the initial round of capex funding. This is often because the initiating BU got really busy with the delivery and implementation that there was no one advocating the progress, accomplishments and blockers to the sponsors. 
+This aspect is so critical and often an afterthought. I have seen several projects that don't live beyond the initial round of capex funding. This is often because the initiating BU gets really busy with the delivery and implementation. with no one advocating the progress, accomplishments and blockers to the sponsors. 
 This goes beyond status updates - which is what often they are relegated too but when done well involve:
 - Continued engagement with industry thought leaders, peers to bring in fresh thinking around the impact of the AI Initiative
 - Often work with multiple functions like IT infrastructure, finance, product owners to come up with the "real/net"  value delivered - this helps weed out the vanity projects from the ones that make a real net impact to the business
@@ -59,7 +61,7 @@ This goes beyond status updates - which is what often they are relegated too but
 ## CTO - Develop and execute AI Roadmap
 This partnership when done well will ensure de-duplication and acceleration of adoption. A couple of ideas for partnership 
 - AI Project selection framework  - The CAIO can help put together a project selection framework with the CTO using the wider lense of company vision, local laws, policy, data strategy. 
-- AI Technology choices - Given the CTO is responsible for running the tech stack and also the future of the technology roadmap - AI being one of them - the CAIO can take on some of the AI specific aspects of technology choices to ensure that CTO has the bandwidth to continue doing the current role and benefit with the aide. Some of these ideas could be
+- AI Technology choices - Given the CTO is responsible for running the tech stack and also the future of the technology roadmap - AI being one of them - the CAIO can take on the AI specific aspects of technology choices to ensure that CTO has the bandwidth to continue doing the current role and benefit with the aide. Some of these areas could be
   - Enterprise architecture approach to AI
   - Evaluation of Tools / Frameworks and ISV/SaaS providers
   - and; talent acquisition and training specific to AI roles and skills
